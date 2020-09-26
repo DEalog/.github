@@ -1,0 +1,9 @@
+{
+    "name": "Deploy to Amazon ECS",
+    "description": "Deploy any service on any DEalog AWS ECS cluster.",
+    "iconName": "dealog-iconlogo",
+    "filePatterns": [
+        ".dockerignore",
+        "Dockerfile*"
+    ]
+}
